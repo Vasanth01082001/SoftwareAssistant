@@ -1,0 +1,20 @@
+[
+    {
+      "employee_id": "E12345",
+      "name": "John Doe",
+      "project": "Project Alpha",
+      "access": ["sql server management studio", "visual studio", "microsoft teams"]
+    },
+    {
+      "employee_id": "E67890",
+      "name": "Jane Smith",
+      "project": "Project Beta",
+      "access": ["sql server management studio", "microsoft teams"]
+    },
+    {
+        "employee_id":"ABC123",
+        "name":"Suruli",
+        "project":"Project Delta",
+        "access":["visual studio code","postman","sql server management studio"]
+    }
+]
